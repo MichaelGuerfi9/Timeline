@@ -1,0 +1,17 @@
+{
+  "name": "timeline",
+  "version": "1.0.0",
+  "description": "A simple Timeline application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
